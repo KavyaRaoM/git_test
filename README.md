@@ -1,2 +1,3 @@
 # git_test
-"Hello, Kavya!!"
+"Hello, Kavya"
+This is my second change made to the file
